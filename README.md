@@ -1,5 +1,5 @@
 ![Untitled1](https://github.com/user-attachments/assets/aee59176-012f-435f-a071-1468e62c34cd)
-## <p align="center"></p>
+## <p></p>
 
 # <p align="center"><ins>About Me</ins></p>
 Welcome to my personal GitHub, my name is Justin or in online spaces I am known as Rabbischmitty/Rabbismitty. Why Rabbismitty? I am 
