@@ -1,10 +1,11 @@
 ![Untitled1](https://github.com/user-attachments/assets/aee59176-012f-435f-a071-1468e62c34cd)
-# <p align="center">Welcome to My Personal Git Repo</p>
+## <p align="center"></p>
 
 # <p align="center"><ins>About Me</ins></p>
+Welcome to my personal GitHub, my name is Justin or in online spaces I am known as Rabbischmitty/Rabbismitty. Why Rabbismitty? I am 
 
 <div align="center">
-  <table width="100%"  style="border:0px solid white; width:100%;">
+  <table>
     <tr>
     <td>
         
