@@ -4,45 +4,45 @@
 # <p align="center"><ins>About Me</ins></p>
 
 <div align="center">
-<table>
-  <tbody>
-  <td>
-  
-| Platforms |
-| ------- |
-| Windows |
-| Red Hat |
-| Ubuntu |
-| Kali |
-| Windows Server |
-| Ubuntu Server |
-    
-  </td>
-  <td>
-    
-| I have experience with... |
-| ------- |
-| Java |
-| Python |
-| C++ |
-| SQL |
-| Bison/Flex |
-| HTML/CSS |
-
-  </td>
+  <table width="100%"  style="border:0px solid white; width:100%;">
+    <tr>
     <td>
+        
+  | Platforms |
+  | ------- |
+  | Windows |
+  | Red Hat |
+  | Ubuntu |
+  | Kali |
+  | Windows Server |
+  | Ubuntu Server |
     
-| I would like to learn/improve with... |
-| ------- |
-| GO |
-| Rust |
-| C++ |
-| Python |
-| Node.js |
-| Zig |
+  </td>
+  <td>
+    
+  | I have experience with... |
+  | ------- |
+  | Java |
+  | Python |
+  | C++ |
+  | SQL |
+  | Bison/Flex |
+  | HTML/CSS |
 
   </td>
-  </tbody>
+  <td width="33%" style="border:0px solid; width:33.33%">
+    
+  | I would like to learn/improve with... |
+  | ------- |
+  | GO |
+  | Rust |
+  | C++ |
+  | Python |
+  | Node.js |
+  | Zig |
+
+  </td>
+</tr>
 </table>
 </div>
 <!--
