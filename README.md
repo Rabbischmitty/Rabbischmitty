@@ -1,4 +1,5 @@
-## Hi there 👋
+![Untitled1](https://github.com/user-attachments/assets/aee59176-012f-435f-a071-1468e62c34cd)
+
 
 <!--
 **Rabbischmitty/Rabbischmitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
