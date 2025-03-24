@@ -68,11 +68,20 @@ The tables below show some of the platforms and languages that I have worked wit
 4. Network Layer Security
 5. Data Science
 
+# <p align="center"></p>
+# <p align="center"><ins>Fun Stuff</ins></p>
 ### Current Hobbies:
-- Video Games
-- Anime
-- Sports
-- Exercise
+- Video Games (War Robots: Frontiers, Throne and Liberty, Lego Fortnite, Helldivers 2)
+- Anime (Solo Leveling, Shangri-La Frontier, Mashle: Magic and Muscles, Black Clover)
+- Sports (NFL, College Football)
+- Exercise (Calisthenics, Cardio)
+
+### Current Music Tastes:
+- [Benny Friedman: YAMA](https://youtu.be/nUY6TMUza6g?si=xXB4eQ6uir5_inzt)
+- [Ishay Ribo: Sibat Hasibot](https://youtu.be/T5Wf3gmF6Do?si=EahaYiQ9tuuxfS5K)
+- [Yaakov Shwekey: Yishtabach](https://youtu.be/E_hzOuAK5gY?si=4iXXD8UalwlWNe0T)
+- [Alex Clare, Matisyahu, TYH Nation: Spread Light](https://youtu.be/IZgUNvpy100?si=hZ9AA_HhNsjhAhtJ)
+- 90s and early 2000s rock and punk (Sum41, Foo Fighters, The Offspring, Blink182)
 
 # <p align="center"></p>
 # <p align="center"><ins>Current Project</ins></p>
